@@ -1,5 +1,7 @@
 <h1>Mining the Social Web</h1>
 
+<p>Fork the codes for this project at: https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition</p>
+
 <p>Mining social network data from Facebook, Twitter, LinkedIn, Google+, Github and others using the networks API.</p>
 
 <ol>
