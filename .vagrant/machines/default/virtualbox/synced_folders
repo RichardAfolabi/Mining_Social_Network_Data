@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/RichardAfolabi/myGitHub/Mining_Social_Network_Data","disabled":false},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef/618fb7f08b73b775e5e42682540f03b7/cookbooks","hostpath":"/Users/RichardAfolabi/myGitHub/Mining_Social_Network_Data/deploy/cookbooks","disabled":false}}}
